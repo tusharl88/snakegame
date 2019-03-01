@@ -1,3 +1,5 @@
 we can add anything.
 - I don't have brain
 - This life is soo...lazy
+
+-these are new changes and they will pass into side branch and not anywhere else.
